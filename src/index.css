@@ -1,0 +1,7 @@
+#blocklyDiv {
+    height: 480px;
+    width: 600px;
+    border: 1px solid #ccc; /* Add a border for visibility */
+    background-color: #f5f5f5; /* Light background color */
+  }
+  
